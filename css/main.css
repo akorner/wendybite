@@ -1,0 +1,33 @@
+body {
+	background-color: gray;
+	color: white;
+	border: 1px solid black;
+	padding: 50px;
+	margin: 50px;
+}
+
+h1 {
+	font-style: italic;
+	font-family: Georgia; 
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
+
+a {
+	color: green;
+}
+
+h2{
+
+}
+
+p{
+
+}
+
+footer{
+	text-align: center;
+}
