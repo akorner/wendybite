@@ -1,31 +1,56 @@
 body {
-	background-color: gray;
+	background-color: #333333;
 	color: white;
-	border: 1px solid black;
+	border: 1px double white;
+	border-width: thin;
 	padding: 50px;
 	margin: 50px;
 }
 
 h1 {
 	font-style: italic;
-	font-family: Georgia; 
+	font-family: georgia, Serif; 
 	text-align: center;
+	font-weight: normal;
+	font-size: 30px;
 }
 
 nav {
 	text-align: center;
+	font-family: helvetica, sans-serif;
+	font-size: 12px;
 }
 
 a {
-	color: green;
+	color: #2ECC71;
 }
 
 h2{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 18px;
 
 }
 
 p{
+	font-family: times, serif;
+	font-size: 14px;
 
+}
+
+h3 {
+	font-family: helvetica, sans-serif;
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #999999;
+	letter-spacing: 1px;
+	padding-top: 10px;
+}
+
+h4 {
+	font-family: helvetica, sans-serif;
+	font-size: 14px
+	color: white;
+	display: inline;
 }
 
 footer{
